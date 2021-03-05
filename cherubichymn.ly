@@ -4,7 +4,6 @@
 	subtitle = "Херувимская Пѣснь"
 	composer = "D. S. Bortnjanskij"
 	arranger = "Д. С. Бортнянський"
-	tagline = "Compline Choir - St. John's College, Cambridge"
 
 }
 
